@@ -120,7 +120,9 @@ nav>a {
 /* hero */
 
 
-
+.hero-section{
+  animation: fade-in 5s 1s ease-in;
+}
 
 
 
